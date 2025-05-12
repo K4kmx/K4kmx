@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+As an experienced Senior Data Scientist with a strong background in Computer Vision, Natural Language Processing (NLP), and Machine Learning, I have developed expertise in building end-to-end solutions that solve complex, real-world problems. With over 6 years of research experience and a solid academic foundation, I specialize in AI-powered systems for data analysis, object detection, semantic analysis, and predictive modeling.
+
+Proficient in Python and its powerful libraries (such as pandas, NumPy, scikit-learn, PyTorch, TensorFlow), I have hands-on experience in machine learning workflows, including model training, hyperparameter tuning, and deployment. I also work with Big Data technologies like PySpark and MLflow, and have deep knowledge of frameworks for building scalable systems with Docker and Kubernetes.
+
+I’m passionate about exploring cutting-edge solutions using advanced deep learning models and frameworks like YOLO for object detection, Hugging Face Transformers for NLP tasks, and LangChain for RAG systems. My work spans multiple domains, from creating automated systems for text analysis to developing models for forecasting sales, churn prediction, and customer segmentation.
+
+In addition to technical proficiency, I have contributed to the development of patented technologies and academic publications, showcasing my ability to merge research with practical application. I continuously seek to push the boundaries of AI technologies while building robust, impactful solutions.
 <!--
 **K4kmx/K4kmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
