@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-As an experienced Senior Data Scientist with a strong background in Computer Vision, Natural Language Processing (NLP), and Machine Learning, I have developed expertise in building end-to-end solutions that solve complex, real-world problems. With over 6 years of research experience and a solid academic foundation, I specialize in AI-powered systems for data analysis, object detection, semantic analysis, and predictive modeling.
+As an experienced Senior Data Scientist with a strong background in Computer Vision, Natural Language Processing (NLP), and Machine Learning, I have developed expertise in building end-to-end solutions that solve complex, real-world problems. With over 3 years of research experience and a solid academic foundation, I specialize in AI-powered systems for data analysis, object detection, semantic analysis, and predictive modeling.
 
 Proficient in Python and its powerful libraries (such as pandas, NumPy, scikit-learn, PyTorch, TensorFlow), I have hands-on experience in machine learning workflows, including model training, hyperparameter tuning, and deployment. I also work with Big Data technologies like PySpark and MLflow, and have deep knowledge of frameworks for building scalable systems with Docker and Kubernetes.
 
